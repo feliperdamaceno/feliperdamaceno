@@ -44,9 +44,9 @@ For those who like statistics.
 
 <div align="center">
   <!-- Languages Card -->
-  <a href="https://github.com/feliperdamaceno"><img height="130em" alt="card with a percentage of use of all programming languages that i use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperdamaceno&theme=react&layout=compact&langs_count=8&hide_border=true&custom_title=Top&nbsp;languages"/></a>
+  <a href="https://github.com/feliperdamaceno"><img height="140em" alt="card with a percentage of use of all programming languages that i use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperdamaceno&theme=react&layout=compact&langs_count=8&hide_border=true&custom_title=Top&nbsp;languages"/></a>
   <!-- Info Card -->
-  <a href="https://github.com/feliperdamaceno"><img height="130em" alt="card with statistics from my profile, such as total commits, contributions, and so on" src="https://github-readme-stats.vercel.app/api?username=feliperdamaceno&theme=react&show_icons=true&include_all_commits=true& count_private=true&hide_border=true&hide=stars&custom_title=Github&nbsp;Info"/></a>
+  <a href="https://github.com/feliperdamaceno"><img height="140em" alt="card with statistics from my profile, such as total commits, contributions, and so on" src="https://github-readme-stats.vercel.app/api?username=feliperdamaceno&theme=react&show_icons=true&include_all_commits=true& count_private=true&hide_border=true&hide=stars&custom_title=Github&nbsp;Info"/></a>
 </div>
 
 ## 🛡️ Let's have a conversation
