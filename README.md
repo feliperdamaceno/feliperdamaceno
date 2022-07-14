@@ -15,7 +15,7 @@ Image by <i><a href="https://www.artstation.com/exceptrea">ExceptRea</a></i>.
 
 - _Teaching myself through courses, documentation, and hard practising._
 
-- _Fact: Penguins are **cute!** <a href="https://en.wikipedia.org/wiki/Linux)">🐧</a>._
+- _Fact: Penguins are **cute!** <a href="https://en.wikipedia.org/wiki/Linux">🐧</a>._
 
 ## 🔮 My Stack
 
