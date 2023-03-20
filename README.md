@@ -1,4 +1,4 @@
-<a href="https://lordicon.com/"><img src="./img/terminal-window.apng" alt="terminal window" align="right" width="300"/></a>
+<a href="https://lordicon.com/"><img src="./img/terminal-window.apng" alt="terminal window" align="right" width="280"/></a>
 
 ### Hi Folks! I'm Felipe 🤘🏻
 
