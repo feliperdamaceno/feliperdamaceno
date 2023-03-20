@@ -4,8 +4,8 @@
 
 Front End Developer with a Design spirit
 
-<a href="https://www.linkedin.com/in/feliperdamaceno/"><img alt="linkedin badge" src="https://img.shields.io/badge/-feliperdamaceno-3178c6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feliperdamaceno/"></a>
-<a href="mailto:feliperdamaceno@sent.com"><img alt="email badge" src="https://img.shields.io/badge/-feliperdamaceno@sent.com-3178c6?style=flat-square&logo=minutemailer&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/feliperdamaceno/"><img alt="linkedin badge" src="https://img.shields.io/badge/-feliperdamaceno-3178c6?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feliperdamaceno/"></a>
+<a href="mailto:feliperdamaceno@sent.com"><img alt="email badge" src="https://img.shields.io/badge/-feliperdamaceno@sent.com-3178c6?style=flat&logo=minutemailer&logoColor=white"></a>
 
 I'm a front-end developer with extensive experience in web development, graphic/web design, and content creation. I'm specialized in building high-quality applications using React and related technologies.
 
